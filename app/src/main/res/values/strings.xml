@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Total hours of sleep</string>
+    <string name="title">Igor\'s sleep schedule</string>
+    <string name="button_text">Show</string>
+    <string name="first_line">Hours slept on a weekday</string>
+    <string name="second_line">Hours slept on the weekend</string>
+    <string name="third_line">Hours slept total</string>
+
+</resources>
